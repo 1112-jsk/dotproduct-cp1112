@@ -25,3 +25,4 @@ def parallel_dot(a, b, num_threads=2):
 dot_product = parallel_dot(vector_a, vector_b, num_threads=2)
 
 print(f"The parallel dot product of vector_a and vector_b is: {dot_product}")
+#mukul made changes
